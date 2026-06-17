@@ -1,0 +1,19 @@
+#clock{
+    font-size: 60px;
+    color: black;
+    background: palegreen;
+    padding: 20px 40px;
+    border-radius: 15px;
+    letter-spacing: 3px;
+    box-shadow: 0 0 20px pink;
+    text-align: center;
+    margin: 100px auto;
+    border: 2px solid pink;
+    position:center;
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
